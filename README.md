@@ -20,6 +20,14 @@ cd backend
 npm install
 npx nodemon server.js
 ```
+
+## 🌐 Running the Frontend (Next.js)
+
+```bash
+cd client
+npm install
+npm run dev
+```
 ## 📡 API Information
 
 ### 🔐 Authentication Endpoints
@@ -34,15 +42,6 @@ npx nodemon server.js
 
 ## 📁 Project Structure
 
-
-## 🌐 Running the Frontend (Next.js)
-
-```bash
-cd client
-npm install
-npm run dev
-```
-## 🌐 Folder Structure 
 
 ```
 ClimateAction-Hackathon/
